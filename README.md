@@ -30,9 +30,9 @@ Luego, se ejecuta el siguiente comando en la terminal:
             {
                 "products": [
                     {
-                        "name": "Laptop Notebook HP 350",
-                        "price": "1300",
-                        "image_url": "https://i5.walmartimages.com/asr/57bb38e9-90a1-4532-8f4b-0e76e4538846.b8710b156887abf438daa8aa6905b47d.jpeg",
+                        "name": "xxxx",
+                        "price": "$$$$",
+                        "image_url": "https://.----",
                         "id": 1
                     }
                 ]
@@ -106,29 +106,11 @@ explicación del código de cada archivo:
 
 6. **index.html:** Tiene la estructura básica de la página web y enlaza con los archivos CSS y JavaScript necesarios para mostrar la lista de productos y proporcionar funcionalidad interactiva al usuario.
 
-## Resultado con el servidor local
-
-En el siguiente enlace podra ver el resultado final de la aplicación:
-
-<p align="center">
-  <img src="https://live.staticflickr.com/65535/53726057511_cff9b213e9.jpg" alt="Imagen 1"/>
-</p>
-
-Ver demo con el servidor local: https://challenge-alura-geek-v2-1.vercel.app/
-
 ## Resultado con sevidor online
 
-En el siguiente enlace podra ver el resultado final de la aplicación, pero usando la API REST simulada de prueba online alojada en Vercel:
+Ver demo con el servidor online:     https://techwitchux.github.io/AluraGeekChallenge/
+https://github.com/TechWitchUx/AluraGeekChallenge
 
-<p align="center"><img src="https://live.staticflickr.com/65535/53726405179_2921e90eed.jpg" alt="Imagen 2"/>
-</p>
-
-Ver demo con el servidor online:       https://challenge-alura-geek-v2-2.vercel.app/
-
-URL del repositorio de la API utilizada: https://github.com/Mariq12/api-alurageek-v4
-### *Nota*
-
-*Lo unico que cambia entre ambos proyectos solo es la URL de la API REST.*
 
 ## Principales Tecnologías utilizadas
 * HTML5
@@ -139,7 +121,6 @@ URL del repositorio de la API utilizada: https://github.com/Mariq12/api-aluragee
 * Node.js y npm (incluyendo node_modules)
 * JSON Server (db.json para simular API)
 * VsCode
-* Git
 * GitHub
 
 ## Herramientas de Gestión y Diseño
